@@ -1,4 +1,4 @@
-# This is a repository created to test some git commands #
+# This is a repository created to test some git commands #
 
 ## git rebase ##
 The rebase is a way to cleanup the commits history
